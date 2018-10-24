@@ -4,7 +4,7 @@ var prefix = "!";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` Rabbit Community.  `,"http://twitch.tv/S-F")
+client.user.setGame(` Royal BC  `,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
